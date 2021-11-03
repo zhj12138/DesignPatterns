@@ -1,0 +1,5 @@
+add_directory_executable(SimpleFactory)
+add_directory_executable(FactoryMethod)
+add_directory_executable(AbstractFactory)
+add_directory_executable(Builder)
+add_directory_executable(Singleton)
