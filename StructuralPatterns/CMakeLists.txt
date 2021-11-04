@@ -1,0 +1,6 @@
+add_directory_executable(Adapter)
+add_directory_executable(Bridge)
+add_directory_executable(Decorator)
+add_directory_executable(Facade)
+add_directory_executable(Flyweight)
+add_directory_executable(Proxy)
