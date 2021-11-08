@@ -1,0 +1,5 @@
+add_directory_executable(Command)
+add_directory_executable(Mediator)
+add_directory_executable(Observer)
+add_directory_executable(State)
+add_directory_executable(Strategy)
